@@ -1,2 +1,2 @@
 # AhAh-example
-AHAH jQuery example
+Simple AHAH jQuery example
